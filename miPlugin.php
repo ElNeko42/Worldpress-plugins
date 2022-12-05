@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: miPlugin
+Plugin Name: miFiltro
 Plugin URI: 
 Description: Este pluging agrega texto antes del titulo
 Version: 1.0.0
